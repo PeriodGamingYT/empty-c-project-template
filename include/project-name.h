@@ -4,6 +4,7 @@
 	//// Struct forward/unfilled declarations (N/A).
 	// ...
 
+
 	//// Base includes, defines, and typedefs (N/A).
 	#define WIN32_LEAN_AND_MEAN
 	#define COBJMACROS
